@@ -1,5 +1,7 @@
 # About Me:
-Currently working on semantic html, css, react and react native projects.
+
+Currently working with Reactjs, Nextjs, Vuejs, Sass, Element and GraphQL.
+Experience with Semantic Data Projects using ResearchSpace, Metaphactory, Reactjs.
 
 
 # Socials:
